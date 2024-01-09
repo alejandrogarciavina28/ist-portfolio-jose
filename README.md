@@ -10,5 +10,5 @@ git commit -m "Commit message"
 git push
 ```
 
-[Carro deportivo](https://pictures.dealer.com/s/superiorchevroletdecatur/1409/14dd94437e1d50a627d2ceb220d3c396x.jpg)
+[image](https://pictures.dealer.com/s/superiorchevroletdecatur/1409/14dd94437e1d50a627d2ceb220d3c396x.jpg)
 
